@@ -21,7 +21,7 @@ The strategy focuses on:
 
 - `OP Report.pdf` – Full marketing consultation report
 - `README.md` – Project overview and repository description (you’re here)
-📄 [Download the full OP Report PDF](https://github.com/YOUR-USERNAME/opera-philadelphia-strategy/raw/main/OP%20Report.pdf)
+
 
 ---
 
